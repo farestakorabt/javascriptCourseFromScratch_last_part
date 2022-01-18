@@ -1,0 +1,11 @@
+10
+99C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\dist\index.d25ee831.js132868955890415079 0
+89C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\package.json132868960091030843 0
+83C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\add.js132868956444338965 0
+81C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\dist132868958941406302 1
+103C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\dist\index.d25ee831.js.map132868955890495107 0
+101C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\dist\test-js.45ee5e70.js132868958941336294 0
+87C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\index.html132868959266026108 0
+85C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\index.js132868958657787768 0
+92C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\dist\index.html132868958941356284 0
+105C:\Users\fares\OneDrive\Bureau\javascriptCourseFromScratch_last_part\test-js\dist\test-js.45ee5e70.js.map132868958941396301 0
